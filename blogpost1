@@ -1,5 +1,7 @@
 CONCEPT
-Create a program that allows users to input a city and find the most "instagrammable" spots in the area. The program will scrape Instagram for the most liked posts in a city and filter out influencers and other external factors in order to return the best specific locations to take an Instagram photo. 
+Create a program that allows users to input a city and find the most "instagrammable" spots in the area. The program will 
+scrape Instagram for the most liked posts in a city and filter out influencers and other external factors in order to return 
+the best specific locations to take an Instagram photo. 
 
 DATA COLLECTION
 We plan to use an Instagram scraper 
