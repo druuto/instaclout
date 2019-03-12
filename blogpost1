@@ -4,6 +4,8 @@ scrape Instagram for the most liked posts in a city and filter out influencers a
 the best specific locations to take an Instagram photo. 
 
 DATA COLLECTION
-We plan to use an Instagram scraper 
+https://github.com/rarcega/instagram-scraper
+We plan to use the above Instagram scraper and its --location flag to find the top posts in a city, as well as its --latest
+tag to find the most recent posts in a city. Once we filter these posts, we'll use 
 
 PIPELINE
