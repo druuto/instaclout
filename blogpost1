@@ -6,6 +6,12 @@ the best specific locations to take an Instagram photo.
 DATA COLLECTION
 https://github.com/rarcega/instagram-scraper
 We plan to use the above Instagram scraper and its --location flag to find the top posts in a city, as well as its --latest
-tag to find the most recent posts in a city. Once we filter these posts, we'll use 
+tag to find the most recent posts in a city. Once we filter these posts, we'll generate new locations to search by searching
+through individual users.
 
 PIPELINE
+
+RECENT DEVELOPMENTS
+Cloud set-up 
+Sample data
+More concrete 
